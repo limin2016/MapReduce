@@ -1,0 +1,8 @@
+Library/
+.git/
+.github
+Makefile
+README.md
+setEnv.sh
+main/
+mrapps/

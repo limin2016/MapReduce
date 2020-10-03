@@ -1,0 +1,10 @@
+*.*/
+mrtmp.*
+/main/diff.out
+/mapreduce/x.txt
+/main/
+/mrapps/
+pkg/
+.vscode/
+bin/
+**/.DS_Store
