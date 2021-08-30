@@ -1,6 +1,6 @@
 # MapReduce
 Implement a MapReduce function which contains a Master process and many Worker process. 
-
+test pull request
 
 How to run code?
 1. Enter into the root folder (/Mapreduce)
